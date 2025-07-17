@@ -2,7 +2,7 @@
 **gabrielb0x/gabrielb0x** – Votre escale Tech & Sécu
 -->
 
-<div align="center">
+<div align="left">
   <h1>Salut, je suis Gabriel 👋</h1>
   <p>17 ans • Cyber-sécurité & DevOps • Compsiteur</p>
   <p>
