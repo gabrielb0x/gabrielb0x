@@ -31,8 +31,8 @@ Passionné par les défis techniques, j'explore constamment de nouvelles technol
 
 | Projet 🚧           | Stack 💻                    | Lien 📁  |
 |---------------------|-----------------------------|----------|
-| **tool-center**     | Python · Nginx · MariaDB    | [Site web](https://tool-center.fr/) |
-| **gabex.xyz**       | html/css/js · Markdown      | [Site web](https://gabex.xyz/)     |
+| **tool-center** (j'ai plus le NDD)     | Python · Nginx · MariaDB    | [Site web](https://tool-center.fr/) |
+| **g0x.dev**       | html/css/js · Markdown      | [Site web](https://gabex.xyz/)     |
 | **???**             | Futur Projet                | [🔗 Bientôt](#) |
 
 </div>
@@ -63,8 +63,8 @@ Passionné par les défis techniques, j'explore constamment de nouvelles technol
 
 | 🌍 Domaine                 | 📝 Description                | 🔗 Lien |
 |----------------------------|-------------------------------|---------|
-| **gabex.xyz**              | Portfolio & blog perso        | [gabex.xyz](https://gabex.xyz)          |
-| **tool-center.fr**         | Dashboard outils perso        | [tool-center.fr](https://tool-center.fr)|
+| **g0x.dev**              | Portfolio & blog perso        | [gabex.xyz](https://gabex.xyz)          |
+| **tool-center.fr** (IDEM)         | Dashboard outils perso        | [tool-center.fr](https://tool-center.fr)|
 
 </div>
 
